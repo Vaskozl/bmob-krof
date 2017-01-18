@@ -9,3 +9,7 @@ hs | hs.ver ver
 
 syaw htoB #
 b hs
+
+
+yaw lanoitidarT #
+evol/. && c.evol evol o- ccg
