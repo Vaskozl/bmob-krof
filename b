@@ -1,3 +1,6 @@
-# hs | b ver
-echo civic rotor racecar rotor civic oche
+#!/bin/sh #
+echo "forwards" #
+# b hs
 rev b | sh #
+# "sdrawkcab" ohce
+# hs/nib/!#
